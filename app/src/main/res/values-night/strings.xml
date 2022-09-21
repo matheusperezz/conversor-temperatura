@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_degrees_main_activity">Digite aqui a temperatura</string>
+    <string name="selecione_uma_medida">Selecione uma medida</string>
+    <string name="conversor_de_temperaturas">Conversor de Temperaturas</string>
+    <string name="result">Result</string>
+</resources>
