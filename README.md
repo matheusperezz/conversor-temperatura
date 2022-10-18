@@ -1,7 +1,7 @@
 # Conversor de Temperaturas
 
 #### Sobre o projeto
-Esse projeto foi desenvolvido para treinar o design pattern *Strategy*, Envio de dados entre views com intents e construção de layouts simples
+Esse projeto foi desenvolvido para treinar o design pattern *Strategy*, Envio de dados entre views com intents e construção de layouts simples.
 
 Ele consegue realizar 6 tipos de conversões, abrangendo as unidades de medidas de temperaturas mais famosas *(Celsius, Fahrenheit e Kelvin)* são elas: 
 - Celsius >>> Kelvin
