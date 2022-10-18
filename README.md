@@ -17,4 +17,4 @@ Ele consegue realizar 6 tipos de conversões, abrangendo as unidades de medidas 
 </div>
 
 #### Como baixar
-Acessar as releases da página do github ou baixe diretamente o apk [neste link](https://github.com/matheusperezz/conversor-temperatura/releases/download/v1.0.0/conversor-de-temperatura.apk)
+Acessar as releases da página do github ou baixe diretamente o apk [neste link](https://github.com/matheusperezz/conversor-temperatura/releases/download/v1.0.0/conversor-de-temperatura.apk).
